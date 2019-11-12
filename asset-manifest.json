@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/box-map-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/box-map-react/static/js/main.1edcf935.chunk.js",
+    "main.js.map": "/box-map-react/static/js/main.1edcf935.chunk.js.map",
+    "runtime-main.js": "/box-map-react/static/js/runtime-main.b6ca619d.js",
+    "runtime-main.js.map": "/box-map-react/static/js/runtime-main.b6ca619d.js.map",
+    "static/js/2.c2d52b07.chunk.js": "/box-map-react/static/js/2.c2d52b07.chunk.js",
+    "static/js/2.c2d52b07.chunk.js.map": "/box-map-react/static/js/2.c2d52b07.chunk.js.map",
+    "index.html": "/box-map-react/index.html",
+    "precache-manifest.ae8582209e6a7b0619bc7dccc195c9fd.js": "/box-map-react/precache-manifest.ae8582209e6a7b0619bc7dccc195c9fd.js",
+    "service-worker.js": "/box-map-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/box-map-react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/box-map-react/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ca619d.js",
+    "static/js/2.c2d52b07.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1edcf935.chunk.js"
+  ]
+}
